@@ -1,4 +1,4 @@
-name,group,physicians_number,s_time_94662,s_time_607376,s_time_737037,s_time_total,m_time_94662,m_time_607376,m_time_737037,m_time_total
+name,group,physicians_number,s_time_d045f565-e0be-432c-aaab-8296b169c529,s_time_9cfd047c-14f1-45c3-aadc-02ec90feeae9,s_time_aec1f10a-a315-409e-b099-0e1c0bdc0077,s_time_total,m_time_d045f565-e0be-432c-aaab-8296b169c529,m_time_9cfd047c-14f1-45c3-aadc-02ec90feeae9,m_time_aec1f10a-a315-409e-b099-0e1c0bdc0077,m_time_total
 Clinician 1,senior,1,68,18,116,202,71,98,74,243
 Clinician 2,intern,2,251,113,109,473,144,89,32,265
 Clinician 3,intern,3,124,20,83,227,77,64,31,172
